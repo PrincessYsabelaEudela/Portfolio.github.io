@@ -51,6 +51,14 @@ P {
   /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); */
 }
 
+.view-all a {
+  color: #29524a;
+}
+
+.view-all a:hover {
+  color: #f4e4d4;
+}
+
 .nav-links {
   display: flex;
   gap: 10px;
